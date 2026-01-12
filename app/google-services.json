@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472257856194",
+    "firebase_url": "https://ciciailite-default-rtdb.firebaseio.com",
+    "project_id": "ciciailite",
+    "storage_bucket": "ciciailite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472257856194:android:6e14e089ff2334fb39315b",
+        "android_client_info": {
+          "package_name": "com.example.ciciailite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472257856194-69gti35i7t73mrr0l233iuq304a2a2mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciciailite",
+            "certificate_hash": "f3d1a88141caff0103896b17e67b375ff806d46c"
+          }
+        },
+        {
+          "client_id": "472257856194-qap0bg11i8e7b8vuvpin0rakuce8vqv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTSjVRJcwjFP8a1Oq4GYcaimZOY9V6Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472257856194-qap0bg11i8e7b8vuvpin0rakuce8vqv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
